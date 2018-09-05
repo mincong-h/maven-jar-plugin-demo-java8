@@ -2,6 +2,8 @@
 
 Maven JAR Plugin demo in Java 8. See also [maven-jar-plugin-demo-java11](https://github.com/mincong-h/maven-jar-plugin-demo-java11).
 
+Blog: <https://mincong-h.github.io/2018/09/05/maven-jar-plugin-understanding/>
+
 ## Usage
 
 macOS/Linux (use `:` as separator):
